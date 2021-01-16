@@ -1,2 +1,2 @@
 # json-to-dart-class
-Generate Dart data class from JSON.
+Generate Dart class from JSON.
